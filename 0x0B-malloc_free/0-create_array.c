@@ -2,7 +2,7 @@
 		
 #include <stdlib.h>
 		
-/**
+/*
 		
  * create_array - create array of size size and assign char c
 		
@@ -13,8 +13,6 @@
  * Description: creat array of size size and assign char c
 		
  * Return: pointer to array, NULL if fail
-		
- *
 		
  */
 		
